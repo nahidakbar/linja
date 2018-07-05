@@ -4,7 +4,11 @@
   "description": "javascript linear algebra library",
   "main": "lib/index.js",
   "scripts": {
-    "test": "jbn test"
+    "test": "jbn test",
+    "init": "jbn init",
+    "docs": "jbn docs",
+    "form": "jbn form",
+    "lint": "jbn lint"
   },
   "keywords": [
     "linear",
@@ -13,5 +17,8 @@
     "tensor"
   ],
   "author": "Nahid Akbar",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jbn": "latest"
+  }
 }
