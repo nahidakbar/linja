@@ -1,0 +1,17 @@
+{
+  "name": "linja",
+  "version": "0.0.0",
+  "description": "javascript linear algebra library",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jbn test"
+  },
+  "keywords": [
+    "linear",
+    "algebra",
+    "matrix",
+    "tensor"
+  ],
+  "author": "Nahid Akbar",
+  "license": "MIT"
+}
